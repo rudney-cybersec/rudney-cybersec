@@ -24,5 +24,5 @@
 ---
 
 ### 📫 Como me encontrar
-- **LinkedIn:** [https://www.linkedin.com/in/rudney-vinicius-gon%C3%A7alve-de-souza-34420b3b4]
-- **HackTheBox:** [https://profile.hackthebox.com/profile/019c8b10-7cbd-71cd-b7a7-a0190655bf83]
+- ![LinkedIn](https://www.linkedin.com/in/rudney-vinicius-gon%C3%A7alve-de-souza-34420b3b4)
+- ![HackTheBox](https://profile.hackthebox.com/profile/019c8b10-7cbd-71cd-b7a7-a0190655bf83)
