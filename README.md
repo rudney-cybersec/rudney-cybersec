@@ -13,7 +13,7 @@
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Python (Automação), Bash Scripting.
+- **Linguagens:** Python (Automação), Bash Scripting e PowerShell.
 - **Sistemas:** Linux (Arch/OpenSuse/ParrotOS), Windows Server, RouterOS (Mikrotik).
 - **Laboratórios:** GNS3 com VMs Windows, Linux, apps vulneráveis (DVWA/OWASP Juice Shop) e HackTheBox (Em progresso).
 
@@ -25,8 +25,8 @@
 ---
 
 ### 📫 Como me encontrar
-![LinkedIn](https://www.linkedin.com/in/rudney-vinicius-gon%C3%A7alve-de-souza-34420b3b4)
-![HackTheBox](https://profile.hackthebox.com/profile/019c8b10-7cbd-71cd-b7a7-a0190655bf83)
+- ![LinkedIn](https://www.linkedin.com/in/rudney-vinicius-gon%C3%A7alve-de-souza-34420b3b4)
+- ![HackTheBox](https://profile.hackthebox.com/profile/019c8b10-7cbd-71cd-b7a7-a0190655bf83)
 
 ---
 *"A segurança não é um produto, mas um processo." - Bruce Schneier*
